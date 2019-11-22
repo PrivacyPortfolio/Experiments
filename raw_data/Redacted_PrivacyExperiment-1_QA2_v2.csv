@@ -1,0 +1,5 @@
+QA2. Ensure that each respondent type is properly coded.
+
+"1. Inspect the address of each email received from respondants in QA1, and attempt to classify."
+"2. If first classification attempt is unsuccessful, inspect the sender's signature and attempt to classify."
+"3. Classify as ""Unknown"" any remaining respondants who are unclassified after the first two attempts."
